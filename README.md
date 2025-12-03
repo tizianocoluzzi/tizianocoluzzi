@@ -1,4 +1,8 @@
-## Hi there 👋
+## Tiziano Coluzzi
+#### Engineering in Computer Science and Aretificial Intelligence
+### Currently working on 
+Learning as much as possible about IoT systems, sensors and low level programming, not dening attention to Machine Learning and Cybersecurity
+
 
 <!--
 **tizianocoluzzi/tizianocoluzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
