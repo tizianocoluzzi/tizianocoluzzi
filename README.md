@@ -30,7 +30,7 @@ I enjoy building projects that combine **software, hardware and intelligent syst
 * **Purpose:** To build an IoT system to be mounted on a bike capable of classifying the quality of the road using machine learning on device
 * **Technologies:** `C` `C++` `Python` `ESP-IDF` `MQTT` `TinyML`
 * **Focus:** embedded systems | ML 
-* 🔗 [Trust My Bike](www.github.com/tizianocoluzzi/TrustMyBike)
+* 🔗 [Trust My Bike](https://www.github.com/tizianocoluzzi/TrustMyBike)
 
 ### Classification of deepfake images using Hybrid Architectures
 
@@ -39,7 +39,7 @@ I enjoy building projects that combine **software, hardware and intelligent syst
 * **Purpose:** Given the RDDataset the goal of the project was to compare different method to perform two classification: transformation occurred {social media compression, re-digitalization, nothing} and deepfake analysis {true, false}, the development of the project led to an alternative architecture using CNN and Swin Transformer in parallel
 * **Technologies:** `Python` `PyTorch` `Jupyter Notebook` `Huggingface`
 * **Focus:** Computer Vision | Machine Learning
-* 🔗 [Classification of deepfake images using Hybrid Architectures](www.github.com/tizianocoluzzi/CV)
+* 🔗 [Classification of deepfake images using Hybrid Architectures](https://www.github.com/tizianocoluzzi/CV)
 
 ---
 
@@ -64,7 +64,7 @@ Technologies and tools I work with in the team:
 
 `C` `C++` `Python` `ESP-IDF` `Linux` `Git` 
 
-🔗 [Team Website]([LINK](https://www.sasa-aerospace.it/space-team/))
+🔗 [Team Website](https://www.sasa-aerospace.it/space-team/))
 
 ---
 
@@ -129,7 +129,7 @@ My main areas of interest include:
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/tiziano-coluzzi-078b21299">
+  <a href="https://www.linkedin.com/in/tiziano-coluzzi-078b21299">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
